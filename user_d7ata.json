@@ -6,7 +6,7 @@
         },
         "broadcasting": {
             "active": true,
-            "step": "template_pattern",
+            "step": "groups",
             "templates": [
                 {
                     "text": "عروضكم + سعر حساب 3 اسيا",
@@ -22,21 +22,23 @@
                 "channel:2289580602",
                 "channel:1648580178"
             ],
-            "last_msg_id": []
+            "last_msg_id": [
+                45614
+            ]
         },
         "scheduling": {
-            "active": false,
+            "active": true,
             "step": "group_type",
             "templates": [
                 {
-                    "text": "عروضكم + الحساب للبيع سعر 3  اسيا",
+                    "text": "عروضكم + الحساب للبيع سعر اسيا 3",
                     "media_path": "media/7668452714_1.jpg"
                 }
             ],
             "interval": 120,
             "count": 100,
             "last_msg_id": [
-                45558
+                45616
             ]
         },
         "broadcast_status": {
