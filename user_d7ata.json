@@ -13,31 +13,30 @@
                     "media_path": "media/7668452714_broadcast_1.jpg"
                 }
             ],
-            "interval": 80,
+            "interval": 120,
             "groups": [
-                "channel:1619020516"
+                "channel:1619020516",
+                "channel:2574397261",
+                "channel:2152142364",
+                "channel:2376828874",
+                "channel:2289580602",
+                "channel:1648580178"
             ],
-            "last_msg_id": [
-                45465
-            ]
+            "last_msg_id": []
         },
         "scheduling": {
             "active": false,
             "step": "group_type",
             "templates": [
                 {
-                    "text": "https://t.me/call/Luw0zWpNE0mo4yj_9RtjWkmQNds",
+                    "text": "عروضكم + الحساب للبيع سعر 3  اسيا",
                     "media_path": "media/7668452714_1.jpg"
-                },
-                {
-                    "text": "عروضكم + الحساب للبيع سعر 3 اسيا وبي مجال",
-                    "media_path": "media/7668452714_2.jpg"
                 }
             ],
-            "interval": 80,
+            "interval": 120,
             "count": 100,
             "last_msg_id": [
-                45468
+                45558
             ]
         },
         "broadcast_status": {
