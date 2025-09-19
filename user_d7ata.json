@@ -1,0 +1,72 @@
+{
+    "7668452714": {
+        "templates": {},
+        "known_chats": {
+            "2574397261": "تبادل باونتي راش وبلوكس 𝐎𝐏"
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "عروضكم + سعر حساب 3 اسيا",
+                    "media_path": "media/7668452714_broadcast_1.jpg"
+                }
+            ],
+            "interval": 80,
+            "groups": [
+                "channel:1619020516"
+            ],
+            "last_msg_id": [
+                45465
+            ]
+        },
+        "scheduling": {
+            "active": false,
+            "step": "group_type",
+            "templates": [
+                {
+                    "text": "https://t.me/call/Luw0zWpNE0mo4yj_9RtjWkmQNds",
+                    "media_path": "media/7668452714_1.jpg"
+                },
+                {
+                    "text": "عروضكم + الحساب للبيع سعر 3 اسيا وبي مجال",
+                    "media_path": "media/7668452714_2.jpg"
+                }
+            ],
+            "interval": 80,
+            "count": 100,
+            "last_msg_id": [
+                45468
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": false,
+            "broadcast_type": "groups",
+            "sleep_time": 300,
+            "template_pattern": "1",
+            "groups": [
+                "channel:1619020516",
+                "channel:2574397261",
+                "channel:1648580178",
+                "channel:2289580602",
+                "channel:3075872101",
+                "channel:1807411332"
+            ],
+            "templates": [
+                {
+                    "text": "عروضكم مقابل الحساب + سعر الحساب 3 اسيا",
+                    "media_path": "media/7668452714_broadcast_1.jpg"
+                }
+            ],
+            "group_rotation": {
+                "1619020516": 1,
+                "2574397261": 1,
+                "1648580178": 1,
+                "2289580602": 1,
+                "3075872101": 1,
+                "1807411332": 1
+            }
+        }
+    }
+}
